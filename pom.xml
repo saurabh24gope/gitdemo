@@ -28,7 +28,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-<!-- changes by devloper team usa-->
+<!-- changes by dev team usa-->
 	<build>
 		<plugins>
 			<plugin>
