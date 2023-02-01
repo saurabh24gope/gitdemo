@@ -28,7 +28,11 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+<<<<<<< HEAD
 <!-- changes by dev team usa-->
+=======
+    <!--changes by dev-usa-->
+>>>>>>> dbdd20e90474f95029809b037f28ea12af84e6f7
 	<build>
 		<plugins>
 			<plugin>
